@@ -10,11 +10,11 @@ This project is an artificial intelligence model developed to classify emotional
 
 ---
 
-## Screenshots
+## Project Contents 
 
-![Screenshot 1](https://huggingface.co/spaces/aylaylomm/Mental_Health_Classifier_with_XAI)
-![Screenshot 2](https://huggingface.co/spaces/aylaylomm/Mental_Health_Classifier_with_XAI)
-![Screenshot 3](https://huggingface.co/spaces/aylaylomm/Mental_Health_Classifier_with_XAI)
+![](https://github.com/aysenurkocaak/photo/blob/main/Mental%20Health%20Classifier%20With%20XAI%20-%20a%20Hugging%20Face%20Space%20by%20aylaylomm%20-%20Opera%2026.04.2025%2020_29_40.png)
+![](https://github.com/aysenurkocaak/photo/blob/main/Mental%20Health%20Classifier%20With%20XAI%20-%20a%20Hugging%20Face%20Space%20by%20aylaylomm%20-%20Opera%2026.04.2025%2020_29_49.png)
+![](https://github.com/aysenurkocaak/photo/blob/main/Mental%20Health%20Classifier%20With%20XAI%20-%20a%20Hugging%20Face%20Space%20by%20aylaylomm%20-%20Opera%2026.04.2025%2020_30_13.png)
 
 ## Key Features
 
