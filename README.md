@@ -20,7 +20,7 @@ This project is an artificial intelligence model developed to classify emotional
 
 - **Text Classification**: Classifies sentences entered by users into 7 emotional health classes.
 - **MPNet Embeddings**: Converts text into meaningful vector representations.
-- **PCA for Dimensionality Reduction**: Reduces high-dimensional data to lower dimensions. Specifically, **PCA** reduces 768-dimensional data obtained from the **MPNet** model to 400 dimensions while preserving over 91% of the data.
+- **PCA for Dimensionality Reduction**: Reduces high-dimensional data to lower dimensions. Specifically, **PCA** reduces 768-dimensional data obtained from the **MPNet** model to 400 dimensions while preserving over 96.54% of the data.
 - **XGBoost Classifier**: A powerful classifier for multi-class data.
 - **LIME for Explainability**: Visually explains which words influenced the model's decisions.
 - **Balancing (Random Under-sampling)**: Equalizes the sample size of over-represented classes to ensure that the model gives equal importance to all classes.
