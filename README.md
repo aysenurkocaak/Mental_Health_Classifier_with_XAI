@@ -4,19 +4,19 @@
 
 This project is an artificial intelligence model developed to classify emotional health conditions based on text data. The model classifies user-provided sentences into categories such as **Anxiety**, **Bipolar Disorder**, **Depression**, **Normal**, **Personality Disorder**, **Stress**, and **Suicidal**. The project not only provides accurate classification results but also uses **LIME** and **PCA** techniques for explainable AI (XAI), making it easier to understand the model’s decision-making process.
 
-🎯 The project is available as a live demo on Hugging Face.
+🎯 The project is available as a live demo on Hugging Face : 🎯 
 
- 👉 [**Live Demo**](https://huggingface.co/spaces/aylaylomm/Mental_Health_Classifier_with_XAI)
+ 👉 [** Live Demo : Mental Health Classifier (chatbotcuk) with XAI **](https://huggingface.co/spaces/aylaylomm/Mental_Health_Classifier_with_XAI)
 
 ---
 
-## Project Contents 
+## Project Contents 🌟
 
 ![](https://github.com/aysenurkocaak/photo/blob/main/Mental%20Health%20Classifier%20With%20XAI%20-%20a%20Hugging%20Face%20Space%20by%20aylaylomm%20-%20Opera%2026.04.2025%2020_29_40.png)
 ![](https://github.com/aysenurkocaak/photo/blob/main/Mental%20Health%20Classifier%20With%20XAI%20-%20a%20Hugging%20Face%20Space%20by%20aylaylomm%20-%20Opera%2026.04.2025%2020_29_49.png)
 ![](https://github.com/aysenurkocaak/photo/blob/main/Mental%20Health%20Classifier%20With%20XAI%20-%20a%20Hugging%20Face%20Space%20by%20aylaylomm%20-%20Opera%2026.04.2025%2020_30_13.png)
 
-## Key Features
+## Key Features 🌟
 
 - **Text Classification**: Classifies sentences entered by users into 7 emotional health classes.
 - **MPNet Embeddings**: Converts text into meaningful vector representations.
@@ -28,7 +28,7 @@ This project is an artificial intelligence model developed to classify emotional
 
 ---
 
-## Methods Used
+## Methods Used 🌟
 
 1. **Data Preprocessing**:
    - The data is converted to lowercase.
@@ -54,7 +54,7 @@ This project is an artificial intelligence model developed to classify emotional
 
 ---
 
-## Technologies
+## Technologies 🌟
 
 - **Python**: The core programming language.
 - **Hugging Face**: Used for MPNet and other transformer models.
