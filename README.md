@@ -58,9 +58,9 @@ This project is an artificial intelligence model developed to classify emotional
 
 **LIME** (Local Interpretable Model-agnostic Explanations) is used in this project to provide insights into which specific words in the input text most influenced the model's decision. For each prediction, **LIME** generates a visual explanation highlighting the important features (words) that contributed to the final classification.
 
-Here’s an example of a **LIME** output for one of the sentences:
+Here’s an example of a **LIME** output for index 6 : 
 
-![Here’s an example of a LIME output for index 6:](https://github.com/aysenurkocaak/photo/blob/main/WhatsApp%20Image%202025-04-22%20at%2017.54.45%20(1).jpeg)
+![](https://github.com/aysenurkocaak/photo/blob/main/WhatsApp%20Image%202025-04-22%20at%2017.54.45%20(1).jpeg)
 
 For the explanations of other 15 indexes, please refer to the **lime_outputs** section in the project directory.
 
