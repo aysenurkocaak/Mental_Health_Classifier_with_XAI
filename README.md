@@ -50,7 +50,7 @@ This project is an artificial intelligence model developed to classify emotional
    - **LIME** is used to visually explain the model's decisions based on the words that most influenced the predictions.
 
 6. **Application Development**:
-   - The trained model is integrated into a **chatbot** interface, where users can input sentences and classify their emotional state.
+   - The trained model is integrated into a **chatbot** interface, where users can input sentences and classify their emotional state with GRADIO
 
 ---
 
